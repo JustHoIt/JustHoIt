@@ -5,6 +5,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&text=JustHoIt)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustHoIt&show_icons=true&theme=transparent)
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustHoIt&layout=compact)
 
 </br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
